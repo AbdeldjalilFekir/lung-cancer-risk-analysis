@@ -36,4 +36,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn mlxtend
 
 ## Notes
 - Association rules use discretized ordinal scales to keep rule consequents/antecedents human‑interpretable.
-- The Decision Tree baseline is intentionally simple and interpretable; you can extend with cross‑validated comparisons (Logistic Regression, Random Forest, XGBoost) if needed.
+- The Decision Tree baseline is intentionally simple and interpretable.
+
